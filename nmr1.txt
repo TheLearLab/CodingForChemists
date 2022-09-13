@@ -2,16 +2,16 @@
 # Data set = NMR  25  1  "C:\Users\kumul\OneDrive - The Pennsylvania State University\PD"
 # Spectral Region:
 # LEFT = 16.17099952697754 ppm. RIGHT = -3.821003671755566 ppm.
-#
+#asdfasdf
 # SIZE = 65536 ( = number of points)
-#
+#asdfasdfasdf
 # In the following ordering is from the 'left' to the 'right' limits!
 # Lines beginning with '#' must be considered as comment lines.
 #
 -1005.375
 -968.0
 -816.375
--1299.75
+-1299.75asdfasdf
 -1622.25
 -1468.875
 -1279.875
